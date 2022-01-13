@@ -31,6 +31,7 @@ body{
     text-shadow: 0 0 20px rgb(255, 0, 0), 0 0 40px rgb(255, 0, 0), 0 0 60px rgb(255, 2, 2);
     position: absolute;
     top: 15px;
+    color: #fff;
 }
 #main-header{
     height: 100px;
@@ -517,7 +518,7 @@ margin-left: 12% ;
     
 }
 .socials a{
-    color: white;
+    color: #fff;
     z-index: 10;
     text-shadow: 0 0 15px rgb(201, 1, 1), 0 0 30px rgb(201, 1, 1), 0 0 50px rgb(201, 1, 1);
 }
