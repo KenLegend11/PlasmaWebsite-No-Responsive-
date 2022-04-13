@@ -1,4 +1,4 @@
-# PlasmaWebsite-None-Responsive-
+# PlasmaWebsite-Non-Responsive-
 
 It's an informative website about plasm and their variants 
 
